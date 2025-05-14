@@ -1,0 +1,4 @@
+const String stripeClepublique =
+    "pk_test_51R1kBPGf5A0tQvOcdYzsFSK7vGlfOJ0Bbtf0E8EMBLMpC9jZPwlQvxcPHdT0uHgxh9R1QsLk8HfQAeQcdVjnFPwJ00nx5JPI5P";
+const strinpCleSecrete =
+    "sk_test_51R1kBEGXza8YEGn9vZfRaOTAsQ5irqmXOq1CwhnnTD61QGokcE5ZsrBStX1WwsdiQWDtoCV2TIBK2Tt6VObXHalg00hXjuJWrd";
