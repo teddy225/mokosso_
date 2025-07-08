@@ -325,7 +325,7 @@ class _State extends ConsumerState<HomeScreen> with TickerProviderStateMixin {
                             ),
                           ),
                         )
-                      : Text('lol bbknljflkfjhelkjefhlkzfhl');
+                      : Text('');
                 },
                 error: (error, stackTrace) {
                   return const Text('');
